@@ -16,3 +16,4 @@ Projects are presented in reverse order of completion during the training, with 
 ![Data Analyst — program](/certificate/20232DA00088_eng_2p.png)
 ## Certificate of Completion
 ![Data Analyst — certificate](/certificate/20232DA00088_eng_1p.png)
+ [Download certificate in PDF format (352 KB)](/certificate/20232DA00088_rus.pdf)
