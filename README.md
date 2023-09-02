@@ -1,4 +1,4 @@
-## The Data Analysis Professional Training Course at Practicum by Yandex
+# The Data Analysis Professional Training Course at Practicum by Yandex
 Status: ✅completed
 ## Project portfolio
 Thrilled to present you with the projects I've completed during my studies in the 📊Data Analyst course on the Yandex.Practicum platform. Each project is provided with a link leading to the code viewing page, a brief description, a list of skills and tools used, as well as relevant areas of activity and fields of expertise.
