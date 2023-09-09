@@ -7,7 +7,7 @@ Projects are presented in reverse order of completion during the training, with 
 
 |Project|Project Summary|Skills & Tools Used|Project Domains|Fields of Expertise|
 |:-|:-|:-|:-|:-|
-|Music and the Cities|Testing hypotheses about the dependence of Yandex Music user behavior on the day of the week, time of day, and city of residence|`Python`, `Pandas`|Internet Services, <br/>Streaming Services|Data Analyst|
+|[Music and the Cities](https://github.com/stakun/y_practicum_da_eng/blob/main/01_music_eng.ipynb)|Testing hypotheses about the dependence of Yandex Music user behavior on the day of the week, time of day, and city of residence|`Python`, `Pandas`|Internet Services, <br/>Streaming Services|Data Analyst|
 
 ## Course information
  - 🧑‍🏫**Provider:** [INO СPE «Yandex EdTech»](https://yandex.ru/edtech/documents)
