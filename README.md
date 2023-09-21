@@ -7,6 +7,7 @@ Projects are presented in reverse order of completion during the training, with 
 
 |Project|Project Summary|Skills & Tools Used|Project Domains|Fields of Expertise|
 |:-|:-|:-|:-|:-|
+|[Borrower Reliability Investigation](https://github.com/stakun/y_practicum_da_eng/blob/main/02_bank_eng.ipynb)|Evaluating the impact of a client's marital status and the number of children on the timely repayment of a loan for the development of a credit scoring model|`Python`, `pandas`, `Data Preprocessing`, `.groupby()`, `.pivot_table()`|Banking Sector, Lending|Data Analyst, Financial analyst|
 |[Music and the Cities](https://github.com/stakun/y_practicum_da_eng/blob/main/01_music_eng.ipynb)|Testing hypotheses about the dependence of Yandex Music user behavior on the day of the week, time of day, and city of residence| `Python`, `pandas`, `.groupby()`,  `.pivot_table()`|Internet Services, <br/>Streaming Services|Data Analyst|
 
 ## Course information
