@@ -7,8 +7,9 @@ Projects are presented in reverse order of completion during the training, with 
 
 |Project|Project Summary|Skills & Tools Used|Project Domains|Fields of Expertise|
 |:-|:-|:-|:-|:-|
-|[Borrower Reliability Investigation](https://github.com/stakun/y_practicum_da_eng/blob/main/02_bank_eng.ipynb)|Evaluating the impact of a client's marital status and the number of children on the timely repayment of a loan for the development of a credit scoring model|`Python`, `pandas`, `Data Preprocessing`, `.groupby()`, `.pivot_table()`|Banking Sector, Lending|Data Analyst, Financial analyst|
-|[Music and the Cities](https://github.com/stakun/y_practicum_da_eng/blob/main/01_music_eng.ipynb)|Testing hypotheses about the dependence of Yandex Music user behavior on the day of the week, time of day, and city of residence| `Python`, `pandas`, `.groupby()`,  `.pivot_table()`|Internet Services, <br/>Streaming Services|Data Analyst|
+|Apartment Listing EDA|Exploratory data analysis of Yandex Real Estate Service apartment sales data in St. Petersburg and adjacent areas of the Leningrad region for 2014-2019|`python`, `pandas`, `numpy`, `matplotlib`, `seaborn`,`data preprocessing`, `EDA`, `statistical data analysis`, `data visualization`, `correlation analysis`, `histogram`, `boxplot`, `scattermatrix`, `scatterplot`, `fraud monitoring`|Real estate market,<br/>Ad Aggregators|Marketing Analyst,<br/>Fraud Analyst,<br/>Data Analyst|
+|[Borrower Reliability Investigation](https://github.com/stakun/y_practicum_da_eng/blob/main/02_bank_eng.ipynb)|Evaluating the impact of a client's marital status and the number of children on the timely repayment of a loan for the development of a credit scoring model|`python`, `pandas`, `data preprocessing`, `pivot_table`|Banking Sector,<br/>Lending|Data Analyst,<br/>Financial analyst|
+|[Music and the Cities](https://github.com/stakun/y_practicum_da_eng/blob/main/01_music_eng.ipynb)|Testing hypotheses about the dependence of Yandex Music user behavior on the day of the week, time of day, and city of residence|`python`, `pandas`, `groupby`,  `pivot_table`|Internet Services,<br/>Streaming Services|Data Analyst|
 
 ## Course information
  - 🧑‍🏫**Provider:** [INO СPE «Yandex EdTech»](https://yandex.ru/edtech/documents)
